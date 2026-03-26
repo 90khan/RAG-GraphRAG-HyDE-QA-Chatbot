@@ -85,7 +85,6 @@ app/
 ├── rag_pipeline.py        # Retrieval + generation pipeline + cache
 ├── graph_builder.py       # Extract entities & relations from text
 ├── graph_pipeline.py      # GraphRAG: integrate knowledge graph with RAG pipeline
-├── hyde_pipeline.py       # HyDE: generate hypothetical documents for better answers
 ├── utils.py               # Helper functions
 main.py                    # Streamlit UI entry point
 Dockerfile                 # Docker image definition
